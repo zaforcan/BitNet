@@ -36,7 +36,7 @@ nppBackup
 models/*
 
 # Python
-
+venv/
 /.venv
 __pycache__/
 */poetry.lock
